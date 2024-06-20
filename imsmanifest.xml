@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="tAz5yMVPkeZ8z" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:lom="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+	<metadata>
+		<schema>ADL SCORM</schema>
+		<schemaversion>1.2</schemaversion>
+		<lom:lom>
+			<lom:general>
+				<lom:title>
+					<lom:langstring>Denzel Washington (Listening exercise)</lom:langstring>
+				</lom:title>
+			</lom:general>
+			<lom:educational>
+				<lom:typicallearningtime>
+				<lom:datetime>01:00:00</lom:datetime>
+				</lom:typicallearningtime>
+			</lom:educational>
+		</lom:lom>
+	</metadata>
+	<organizations default="denzel_washington_(listening_exercise)_organization">
+		<organization identifier="denzel_washington_(listening_exercise)_organization">
+
+			<title>Denzel Washington (Listening exercise)</title>
+			<item identifier="BAB1123E-5B99-46A4-B1FE-E6D2762D4805" identifierref="resource">
+				<title>Denzel Washington (Listening exercise)</title>
+			</item>
+		</organization>
+	</organizations>
+	<resources>
+		<resource identifier="resource" type="webcontent" adlcp:scormtype="sco" href="res/index.html">
+			<file href="res/data/apple-touch-icon.png"/>
+<file href="res/data/audios/snd-00f589ded8d730ffb256c08de82a5044f30543d7.mp3"/>
+<file href="res/data/audios/snd-0295943807c88ad4bba31a2471be99dbd1837714.mp3"/>
+<file href="res/data/audios/snd-06ad077ef80eb93ce1dcf5cf93b073ec93610f8f.mp3"/>
+<file href="res/data/audios/snd-140242d7b304584e228e117e076cace2434fe7a0.mp3"/>
+<file href="res/data/audios/snd-18ec0cca3496d03f0577249230190e214ad1d739.mp3"/>
+<file href="res/data/audios/snd-30492b32b6a5bba655971f10f5b0e51270d1a84e.mp3"/>
+<file href="res/data/audios/snd-3b358fca3032de24b8daa8aa112a25ff2d7000fb.mp3"/>
+<file href="res/data/audios/snd-47c089a32a3a0d3ba6e881d2b5f8c6ed7752a592.mp3"/>
+<file href="res/data/audios/snd-670424289a5800be65fde49f8f4e09e80d807b2f.mp3"/>
+<file href="res/data/audios/snd-756a9beaceeaf2598a889de5f746b35639b40ff7.mp3"/>
+<file href="res/data/audios/snd-795f4897e566d48c1f48665d421b4ebad7bf96eb.mp3"/>
+<file href="res/data/audios/snd-91e1e993d2511d05942ccbb2d5fd97db3b96f9c8.mp3"/>
+<file href="res/data/audios/snd-a796fb4fc18e46ce8a49c47cd358d3b5c2cc57f7.mp3"/>
+<file href="res/data/audios/snd-f8fabd303bc86c7cfd6fea33cf473692b03f2d42.mp3"/>
+<file href="res/data/browsersupport.js"/>
+<file href="res/data/favicon.ico"/>
+<file href="res/data/fonts/fnt0.woff"/>
+<file href="res/data/fonts/fnt1.woff"/>
+<file href="res/data/fonts/fnt2.woff"/>
+<file href="res/data/goodbye.html"/>
+<file href="res/data/html5-unsupported.html"/>
+<file href="res/data/html5.png"/>
+<file href="res/data/lms.js"/>
+<file href="res/data/player.js"/>
+<file href="res/index.html"/>
+
+		</resource>
+	</resources>
+</manifest>
